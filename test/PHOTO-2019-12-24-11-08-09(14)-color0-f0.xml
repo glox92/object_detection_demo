@@ -1,0 +1,1 @@
+<annotations><filename>PHOTO-2019-12-24-11-08-09(14)-color0-f0.jpg</filename><folder>images</folder><size><width>480</width><height>640</height><depth>3</depth></size><object><name>DBM</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>220</xmin><ymin>139</ymin><xmax>243</xmax><ymax>159</ymax></bndbox></object></annotations>

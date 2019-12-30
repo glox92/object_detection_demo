@@ -1,0 +1,1 @@
+<annotations><filename>IMG_4581-color1-rotate_180.jpg</filename><folder>images</folder><size><width>480</width><height>640</height><depth>3</depth></size><object><name>DBM</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>246</xmin><ymin>154</ymin><xmax>256</xmax><ymax>173</ymax></bndbox></object></annotations>

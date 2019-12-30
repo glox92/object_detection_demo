@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Original</folder>
+	<filename>IMG_3580.jpg</filename>
+	<path>C:\Users\Derrick Nguyen\Desktop\Trap images with DBM\Resized\Original\IMG_3580.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DBM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>261</ymin>
+			<xmax>58</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DBM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>503</ymin>
+			<xmax>404</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

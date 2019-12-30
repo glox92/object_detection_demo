@@ -1,0 +1,1 @@
+<annotations><filename>IMG_3848-color1-f0.jpg</filename><folder>images</folder><size><width>480</width><height>640</height><depth>3</depth></size><object><name>DBM</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>171</xmin><ymin>114</ymin><xmax>187</xmax><ymax>125</ymax></bndbox></object></annotations>
